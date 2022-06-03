@@ -31,3 +31,9 @@ There are 15,663  5-star unpaid reviews.
 Unpaid review percantage is 38.7% 
 
 ![image](https://user-images.githubusercontent.com/96134924/171773997-9b1772df-6e00-4b9f-8eec-29633a9af6e0.png)
+
+
+# Summary
+
+Number of unpaid reviews and number of unpaid 5-star reviews are way more than the number of paid reviews and number of paid 5-star reviews. There is a negative corelation with payment and reviews as it seems. Analyzing the reviews for the same games left in another platforms like Gamestop for both PS4 and XBOX users would be very interesting and could tell us more about the games and gamers.   
+
