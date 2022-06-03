@@ -23,7 +23,7 @@ Paid reviews percantage is 51.06%.
 ![image](https://user-images.githubusercontent.com/96134924/171773518-e9679fb4-26d0-49fa-a607-ff625ba18bc7.png)
 
 
-There are 15,663  5-star unpaid 
+There are 15,663  5-star unpaid reviews.
 
 ![image](https://user-images.githubusercontent.com/96134924/171773906-c0e0ca84-5ac0-4cff-a17d-9c6895ce9b4d.png)
 
